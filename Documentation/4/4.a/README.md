@@ -1,0 +1,1 @@
+(a) Create the armando_controller package with a ROS C++ node named arm_controller_node. The dependencies are rclcpp, sensor_msgs and std_msgs. Modify opportunely the CMakeLists.txt and the package.xml files to compile your node. Hint: adjust the add_executable and ament_target_dependencies commands

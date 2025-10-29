@@ -1,0 +1,2 @@
+(a) Create a launch folder within the armando_description package containing a launch file named armando_display.launch that loads the URDF as a robot_description ROS param, starts the robot_state_publisher node, the joint_state_publisher node, and the rviz2 node. Launch
+the file using ros2 launch. Note: To visualize your robot in rviz you have to change the Fixed Frame in the lateral bar and add the RobotModel display

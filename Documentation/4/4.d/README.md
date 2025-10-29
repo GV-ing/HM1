@@ -1,0 +1,1 @@
+(d) Create a joint trajectory publisher that sends the same positions commands and make it work by loading the corresponding controllers. Allow the user to select which publisher/controllers to use (position or trajectory) by adding ROS arguments to your node and to your launch files

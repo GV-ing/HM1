@@ -1,0 +1,1 @@
+(c) Launch the Gazebo simulation using armando_gazebo.launch, and check if the image topic is correctly published using rqt_image_view. Hint: remember to add the correct ros_ign_bridge commands into the launch file

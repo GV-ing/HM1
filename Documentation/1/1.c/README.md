@@ -1,0 +1,1 @@
+(c) Substitute the collision meshes of your URDF with primitive shapes. Use <box> geometries to approximate the bounding box of the links. Hint: Enable collision visualization in rviz (go to the lateral bar > Robot model > Collision Enabled) to adjust the collision meshes size to match (approximately) to the bounding box of the visual meshes

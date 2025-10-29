@@ -1,0 +1,1 @@
+(b) Create an armando_camera.xacro file in the armando_gazebo/urdf folder, add the sensor specifications within a xacro:macro and the gz-sim-sensors-system plugin. Import it in armando.urdf.xacro using the xacro:include command
