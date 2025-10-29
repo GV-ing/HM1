@@ -6,7 +6,7 @@ The solution addresses all four main problems (modeling, sensing, controllers, a
 
 ## 📂 Repository Structure
 
-HM1/
+HM1
 ├README
 │
 ├PKG/
@@ -129,6 +129,7 @@ ros2 run armando_controller arm_controller_node
 ```
 
 ---
+
 
 
 
