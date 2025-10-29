@@ -7,34 +7,34 @@ The solution addresses all four main problems (modeling, sensing, controllers, a
 ## 📂 Repository Structure
 
 HM1/
-├── README
+├README
 │
-├── PKG/
-│   │
-│   ├── armando_description/  
-│   ├── armando_gazebo/      
-│   └── armando_controller/  
+├PKG/
+│ │
+│ ├ armando_description/  
+│ ├ armando_gazebo/      
+│ └ armando_controller/  
 │ 
-└── Documentation/
-    ├──README
-    │
-    ├── 1  
-    │	├──1.a
-    │	├──1.b
-    │	└──1.c   
-    ├── 2  
-    │	├──2.a
-    │	├──2.b
-    │	└──2.c        
-    ├── 3  
-    │	├──3.a
-    │	├──3.b
-    │	└──3.c   
-    └── 4  
-     	├──4.a
-     	├──4.b
-     	├──4.c    
-     	└──4.d
+└Documentation/
+ ├README
+ │
+ ├─ 1  
+ │	├1.a
+ │	├1.b
+ │	└1.c   
+ ├─ 2  
+ │	├2.a
+ │	├2.b
+ │	└2.c        
+ ├─ 3  
+ │	├3.a
+ │	├3.b
+ │	└3.c   
+ └─ 4  
+    ├4.a
+    ├4.b
+    ├4.c    
+    └4.d
      	
      	
      	
@@ -129,5 +129,6 @@ ros2 run armando_controller arm_controller_node
 ```
 
 ---
+
 
 
